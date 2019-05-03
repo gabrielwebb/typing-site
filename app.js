@@ -1,4 +1,5 @@
-const texts = ['cool websites', 'bad puns', 'good bacon', 'fun projects']
+const texts = [' make cool websites using HTML, CSS, and Javascript!', 'like bad puns.', 'am interested in cryptocurrency and the blockchain', ' want to fun projects']
+
 let count = 0;
 let index = 0;
 let currentText = '';
